@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** IRAQ - github.com/Free-IPTV" group-title="IRAQ" tvg-logo="https://i.imgur.com/PlJDyeH.png",*** IRAQ - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Al-Forat" tvg-logo="https://i.imgur.com/siWfiZR.png" group-title="IRAQ",Al-Forat
 https://5e085b8c1882e.streamlock.net/live/_definst_/alforat.smil/chunklist_w812522658_b512000_slen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al-Iraqiya" tvg-logo="https://i.imgur.com/7UPGZZO.png" group-title="IRAQ",Al-Iraqiya
@@ -19,7 +17,7 @@ https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w44945793
 https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dijlah Tarab" tvg-logo="https://i.imgur.com/KmrmmcK.png" group-title="IRAQ",Dijlah Tarab
 https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dijlah TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/x5sxSVE.png" group-title="IRAQ",Dijlah TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Dijlah TV" tvg-logo="https://i.imgur.com/x5sxSVE.png" group-title="IRAQ",Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iraq Future" tvg-logo="https://i.imgur.com/15BGXKd.png" group-title="IRAQ",Iraq Future
 https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/chunklist_w125001985_b900000.m3u8

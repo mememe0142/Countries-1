@@ -1,6 +1,4 @@
-#EXTM3U 
-#EXTINF:-1 tvg-name="*** GERMANY SG TV PLUS - github.com/Free-IPTV" group-title="GERMANY SG TV PLUS" tvg-logo="https://i.imgur.com/xku2oyd.png",*** GERMANY SG TV PLUS - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies DE" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies DE
 https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies AT" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies AT
@@ -29,7 +27,7 @@ https://endemol-derserienkanal-1-ch.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Family AT" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family AT
 https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Family CH - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family CH - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Family CH" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="GERMANY SG TV PLUS",Family CH
 https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spotlight DE" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="GERMANY SG TV PLUS",Spotlight DE
 https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -63,7 +61,7 @@ https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Insight TV" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="GERMANY SG TV PLUS",Insight TV
 https://insighttv-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Inwonder TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="GERMANY SG TV PLUS",Inwonder TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Inwonder TV" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="GERMANY SG TV PLUS",Inwonder TV
 https://inwonder-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Masters of Food (UK)" tvg-logo="https://i.imgur.com/Km6qv8C.png" group-title="GERMANY SG TV PLUS",Masters of Food (UK)
 https://endemol-mastersoffood-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -111,7 +109,7 @@ https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tiny House Nation (US)" tvg-logo="https://i.imgur.com/o8ooqA1.png" group-title="GERMANY SG TV PLUS",Tiny House Nation (US)
 https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="GERMANY SG TV PLUS",Travel XP - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="GERMANY SG TV PLUS",Travel XP
 https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True Stories (UK)" tvg-logo="https://i.imgur.com/CbZzzAI.png" group-title="GERMANY SG TV PLUS",True Stories (UK)
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** CHINA - github.com/Free-IPTV" group-title="CHINA" tvg-logo="https://i.imgur.com/6mKCDf1.png",*** CHINA - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aniu TV" tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="CHINA",Aniu TV
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bao Ying" tvg-logo="https://i.imgur.com/tbtETGU.jpg" group-title="CHINA",Bao Ying
@@ -43,7 +41,7 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_702_av-b.m3u8?sd=10&re
 http://stream.smntv.cn/smtv1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sanming Public Channel 2" tvg-logo="https://i.imgur.com/ZjzB2pH.jpg" group-title="CHINA",Sanming Public Channel 2
 http://stream.smntv.cn/smtv2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shao Dong - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/8nR4Hxa.jpg" group-title="CHINA",Shao Dong - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Shao Dong" tvg-logo="https://i.imgur.com/8nR4Hxa.jpg" group-title="CHINA",Shao Dong
 http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sichuan Movie Channel" tvg-logo="https://i.imgur.com/3ZcRy1Q.png" group-title="CHINA",Sichuan Movie Channel
 http://live.sichuanmianning.com/live/xwpd.m3u8

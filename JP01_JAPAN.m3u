@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** JAPAN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/RCEdG3K.png" group-title="JAPAN",*** JAPAN - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Animax (eng.sub)" tvg-logo="https://i.imgur.com/gt8cB0G.jpg" group-title="JAPAN",Animax (eng.sub)
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANN News" tvg-logo="https://i.imgur.com/WXjmhdZ.jpg" group-title="JAPAN",ANN News
@@ -21,13 +19,13 @@ https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playli
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK Chinese Vision" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="JAPAN",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK World - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="JAPAN",NHK World - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="JAPAN",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV News24" tvg-logo="https://i.imgur.com/qjVpiub.jpg" group-title="JAPAN",NTV News24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX Live (Webcam)" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="JAPAN",MX Live (Webcam)
 https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC Japan  - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="JAPAN",QVC Japan  - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="QVC Japan " tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="JAPAN",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="JAPAN",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8

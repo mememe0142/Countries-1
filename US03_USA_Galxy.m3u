@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA GALXY TV - github.com/Free-IPTV" group-title="USA GALXY TV" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA GALXY TV - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Business Rockstars" tvg-logo="https://i.imgur.com/5UDyshA.png" group-title="USA GALXY TV",Business Rockstars
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CinePride" tvg-logo="https://i.imgur.com/GUQHNAP.png" group-title="USA GALXY TV",Cinepride

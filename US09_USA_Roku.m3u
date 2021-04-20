@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA ROKU - github.com/Free-IPTV" group-title="USA ROKU" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA ROKU - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA ROKU",A+E Crime 360
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/HoiEo8f.png" group-title="USA ROKU",Cine Romántico
@@ -21,7 +19,7 @@ http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA ROKU",Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA ROKU",Gusto TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA ROKU",Gusto TV
 https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="USA ROKU",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
@@ -45,7 +43,7 @@ https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA ROKU",Maverick Black Cinema
 https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA ROKU",Midnight Pulp - github.com/Free-IPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA ROKU",Midnight Pulp
 https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="USA ROKU",New K-ID
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8

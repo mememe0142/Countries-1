@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA DISTRO - github.com/Free-IPTV" group-title="USA DISTRO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA DISTRO - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="USA DISTRO",Bollywood TV
 https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="USA DISTRO",Brit Asia Live (US Eastern)
@@ -19,7 +17,7 @@ https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
 http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l61qxIE.jpg" group-title="USA DISTRO",Dry Bar Comedy
 https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUJSWSf.png" group-title="USA DISTRO",ElectricNOW - github.com/Free-IPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUJSWSf.png" group-title="USA DISTRO",ElectricNOW
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iam3ol3.png" group-title="USA DISTRO",Everyday Heroes
 https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
@@ -53,7 +51,7 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
 https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="USA DISTRO",Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0MqKbJ.png" group-title="USA DISTRO",Saveur - github.com/Free-IPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0MqKbJ.png" group-title="USA DISTRO",Saveur
 http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mYGNZ0A.png" group-title="USA DISTRO",Studio C TV
 https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8

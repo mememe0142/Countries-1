@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** ISRAEL - github.com/Free-IPTV" group-title="ISRAEL" tvg-logo="https://i.imgur.com/IZCtGmD.png",*** ISRAEL - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** ISRAEL" group-title="ISRAEL" tvg-logo="https://i.imgur.com/IZCtGmD.png",*** ISRAEL
 http://
 #EXTINF:-1 tvg-id="" tvg-name="As a Child" tvg-logo="https://i.imgur.com/Vs55QWR.png" group-title="ISRAEL",As a Child
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/playlist.m3u8
@@ -13,7 +13,7 @@ https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kabbalah TV Hebrew" tvg-logo="https://i.imgur.com/JtJ4U6o.png" group-title="ISRAEL",Kabbalah TV Hebrew
 http://edge2.uk.kab.tv/live/tv66-heb-medium/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KAN 11 Israel - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/SBeqbv0.png" group-title="ISRAEL",KAN 11 Israel - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="KAN 11 Israel" tvg-logo="https://i.imgur.com/SBeqbv0.png" group-title="ISRAEL",KAN 11 Israel
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Knesset Channel" tvg-logo="https://i.imgur.com/65Cthto.png" group-title="ISRAEL",Knesset Channel
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8

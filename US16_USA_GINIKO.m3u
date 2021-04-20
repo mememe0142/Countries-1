@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA GINIKO - github.com/Free-IPTV" group-title="USA GINIKO" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA GINIKO - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Alright TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Alright TV
 https://nrpus.bozztv.com/36bay2/gusa-alright/index.m3u8
 #EXTINF:-1 tvg-name="Answers That Count" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Answers That Count
 https://nrpus.bozztv.com/36bay2/gusa-atc/index.m3u8
 #EXTINF:-1 tvg-name="Battery Pop" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Battery Pop
 https://nrpus.bozztv.com/36bay2/gusa-batterypop/index.m3u8
-#EXTINF:-1 tvg-name="C3 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",C3 - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="C3" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",C3
 https://nrpus.bozztv.com/36bay2/gusa-c3/index.m3u8
 #EXTINF:-1 tvg-name="Camera Smile TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Camera Smile TV
 https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
@@ -51,7 +49,7 @@ https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-readysetaction/index.m3u8
 #EXTINF:-1 tvg-name="Real Family TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Real Family TV
 https://nrpus.bozztv.com/36bay2/gusa-realfamily/index.m3u8
-#EXTINF:-1 tvg-name="Rope2Rope - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Rope2Rope - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Rope2Rope" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Rope2Rope
 https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
 #EXTINF:-1 tvg-name="Sim Si TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Sim Si TV
 https://nrpus.bozztv.com/36bay2/gusa-simsitv/index.m3u8

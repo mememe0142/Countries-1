@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="***USA Local TV - github.com/Free-IPTV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA Local TV - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",7News - Boston
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akaku 53 (Hawaii)" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 53 (Hawaii)
@@ -55,7 +53,7 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.strea
 https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Glendale 11 - Arizona" tvg-logo="https://i.imgur.com/TAGILVe.png" group-title="USA LOCAL",Glendale 11 - Arizona
 https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
-#EXTINF:-1 tvg-name="Greenbelt TV - github.com/Free-IPTV" tvg-id="greenbeltaccesstv.org" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/uxUqIVT.png",Greenbelt TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Greenbelt TV" tvg-id="greenbeltaccesstv.org" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/uxUqIVT.png",Greenbelt TV
 https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 #EXTINF:-1 tvg-name="Greensboro TV Network" tvg-id="Greensboro TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/fuf9HAz.png",Greensboro TV Network
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
@@ -93,7 +91,7 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-name="Miami City TV" tvg-id="Miami City TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/HJohrzO.png",Miami City TV
 https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
-#EXTINF:-1 tvg-name="Miami TV - github.com/Free-IPTV" tvg-id="Miami TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/JmUUVL1.png",Miami TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Miami TV" tvg-id="Miami TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/JmUUVL1.png",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="WCTX" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/kpygox.png" group-title="USA LOCAL",My9 WCTX My Network TV (Connecticut)
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
@@ -137,7 +135,7 @@ https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/playlist.m3u8
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
 #EXTINF:-1 tvg-name="WHOH TV - Hastings-On-Hudson - NY" tvg-id="WHOH TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/oua9m6O.jpg",WHOH TV - Hastings-On-Hudson - NY
 http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WHPR - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/Gys19EC.png" group-title="USA LOCAL",WHPR - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="WHPR" tvg-logo="https://i.imgur.com/Gys19EC.png" group-title="USA LOCAL",WHPR
 http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LW3Dfbt.png" group-title="USA LOCAL",WJAX Action News - Jacksonville
 https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8?aws.sessionId=dcb19887-c2ac-40ff-94fa-4f9c8692f754

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA STiRR Cities - github.com/Free-IPTV" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA STiRR Cities - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Stirr City National
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Alabama: Birmingham
@@ -47,7 +45,7 @@ https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8
 https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Iowa: Cedar Rapids
 https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Iowa: Keokuk - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Iowa: Keokuk
 https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Iowa: Ottumwa
 https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8
@@ -109,7 +107,7 @@ https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8
 https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Ohio: Dayton
 https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Ohio: Toledo - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Ohio: Toledo
 https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Ohio: Wheeling - Steubenville
 https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8
@@ -197,7 +195,7 @@ https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
 https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",West Virginia: Wheeling
 https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Wisconsin: Green Bay - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Wisconsin: Green Bay
 https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Wisconsin: Milwaukee
 https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8

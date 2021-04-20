@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** TURKEY - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/WxJSQp8.png" group-title="TURKEY",*** TURKEY - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="24 TV" tvg-id="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="TURKEY",24 TV
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ada TV" tvg-logo="https://i.imgur.com/d8op3Wh.jpg" group-title="TURKEY",Ada TV
@@ -37,7 +35,7 @@ https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8
 https://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png" group-title="TURKEY",Beyaz TV
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:-1 tvg-name="Beykent TV - github.com/Free-IPTV" tvg-id="" tvg-logo="https://i.imgur.com/ia7io8Z.png" group-title="TURKEY",Beykent TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Beykent TV" tvg-id="" tvg-logo="https://i.imgur.com/ia7io8Z.png" group-title="TURKEY",Beykent TV
 https://beykenttv.arsivnet.net/P62039948/beykenttv/chunklist_w1942204286.m3u8
 #EXTINF:-1 tvg-name="Bitlis TV" tvg-id="" tvg-logo="https://i.imgur.com/wcaXa08.jpg" group-title="TURKEY",Bitlis TV
 https://59cba4d34b678.streamlock.net/canlitv/bitlistv/playlist.m3u8
@@ -121,7 +119,7 @@ https://broadcasttr.com:446/iceltv/bant1/chunklist_w1752343703.m3u8?hash=ff9087a
 http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
 #EXTINF:-1 tvg-name="JoyTurk Akustik" tvg-id="" tvg-logo="https://i.imgur.com/xdN93jP.png" group-title="TURKEY",JoyTurk Akustik
 plugin://plugin.video.youtube/play/?video_id=rwPNZC6qXfY
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 3 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/9G75uJJ.png" group-title="TURKEY",Kanal 3 - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 3" tvg-logo="https://i.imgur.com/9G75uJJ.png" group-title="TURKEY",Kanal 3
 http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/K_AVRUPA_LOGO.png" group-title="TURKEY",KANAL AVRUPA
 http://51.15.2.151/hls/kanalavrupa.m3u8
@@ -169,7 +167,7 @@ https://waw2.artiyerelmedya.net/lifetv/bant1/chunks.m3u8
 https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Mar TV" tvg-id="" tvg-logo="https://i.imgur.com/KqWGaZ6.png" group-title="TURKEY",Mar TV
 http://marmaratv.canliyayin.org/P324353563/marmaratv/playlist.m3u8
-#EXTINF:-1 tvg-name="Masa Ile Koca Ayi" tvg-id="" tvg-logo="https://i.imgur.com/gBux0ff.jpg" group-title="TURKEY",Masa Ile Koca Ayi 
+#EXTINF:-1 tvg-name="Masa Ile Koca Ayi" tvg-id="" tvg-logo="https://i.imgur.com/gBux0ff.jpg" group-title="TURKEY",Masa Ile Koca Ayi
 plugin://plugin.video.youtube/play/?video_id=arU54ho2EAc
 #EXTINF:-1 tvg-name="Mavi Karadeniz TV" tvg-id="" tvg-logo="https://i.imgur.com/AgZG6oT.jpg" group-title="TURKEY",Mavi Karadeniz TV
 https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8
@@ -205,7 +203,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-name="Rehber TV" tvg-id="" tvg-logo="https://i.imgur.com/1MtmwGc.png" group-title="TURKEY",Rehber TV
 https://yayin.canliyayin.net.tr/P871000884/rehbertv/chunklist.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
-#EXTINF:-1 tvg-id="" tvg-name="Rudaw - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/FzTqH0m.jpg" group-title="TURKEY",Rudaw - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Rudaw" tvg-logo="https://i.imgur.com/FzTqH0m.jpg" group-title="TURKEY",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sat7 Türk" tvg-id="" tvg-logo="https://i.imgur.com/cKQIK4i.png" group-title="TURKEY",Sat7 Türk
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks_dvr.m3u8
@@ -227,7 +225,7 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://waw2.artiyerelmedya.net/tontv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC TR" tvg-logo="https://i.imgur.com/vtedYFm.png" group-title="TURKEY",TLC TR
 https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8ee" group-title="TURKEY",TGRT EU	
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8ee" group-title="TURKEY",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber" tvg-logo="https://i.imgur.com/BVEBIYq.jpg" group-title="TURKEY",TRT Haber
 https://tv-trthaber.live.trt.com.tr/master_720.m3u8

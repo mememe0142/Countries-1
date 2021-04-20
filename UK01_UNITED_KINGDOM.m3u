@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** ENGLAND - github.com/Free-IPTV" group-title="UK" tvg-logo="https://i.imgur.com/vKXvAZx.png",*** ENGLAND - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="UK",92 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="UK",Action Movies
@@ -23,7 +21,7 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-name="Calm Piano Music" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/KC8FleL.jpg",Calm Piano Music
 plugin://plugin.video.youtube/play/?video_id=XULUBg_ZcAU
-#EXTINF:-1 tvg-name="CGTN" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/6rlt5Ph.png",CGTN 
+#EXTINF:-1 tvg-name="CGTN" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/6rlt5Ph.png",CGTN
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clubbing TV" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="UK",Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
@@ -63,7 +61,7 @@ https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FTF For the fans" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="UK",FTF For the fans
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Go USA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/KhdR4wa.jpg" group-title="UK",Go USA - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Go USA" tvg-logo="https://i.imgur.com/KhdR4wa.jpg" group-title="UK",Go USA
 https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GustoTV" tvg-logo="https://i.imgur.com/vanl2NZ.jpg" group-title="UK",GustoTV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -97,13 +95,13 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a/
 http://w11.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-name="La Muscle TV" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/ZiVPUiT.png",La Muscle TV
 https://streamcdn.lamuscle.com/lamtv-origin/smil:monsterworkout-tricepspt1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Latest TV (4PM TO 2AM) " tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/qwAkIWp.png",Latest TV (4PM TO 2AM) 
+#EXTINF:-1 tvg-name="Latest TV (4PM TO 2AM) " tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/qwAkIWp.png",Latest TV (4PM TO 2AM)
 https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LCBN TV" tvg-logo="https://i.imgur.com/d8Rl0VD.png" group-title="UK",LCBN TV
 https://itsy.castr.io/edge/live_5363cc905d8e11eab9a8c11483dc3ae6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Loveworld TV" tvg-logo="https://i.imgur.com/8mc9KqX.png" group-title="UK",Loveworld TV
 https://cdn.lwuk.live/live/smil:lwukweb.smil/chunklist_b864000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Luxe TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/8tWhfap.png" group-title="UK",Luxe TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Luxe TV" tvg-logo="https://i.imgur.com/8tWhfap.png" group-title="UK",Luxe TV
 https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Magic" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK",Magic
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
@@ -161,7 +159,7 @@ https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8
 http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-id="RT UK" tvg-name="RT HD UK" tvg-logo="https://i.imgur.com/ULzpPky.png" group-title="UK",RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
-#EXTINF:-1 tvg-id="" tvg-name="Sangat Television - github.com/Free-IPTV"  tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="UK",Sangat Television - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Sangat Television"  tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="UK",Sangat Television
 https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Screamfest"  tvg-logo="https://i.imgur.com/dtmm8iI.jpg" group-title="UK",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8

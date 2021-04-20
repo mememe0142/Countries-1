@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** NEWZEALAND - github.com/Free-IPTV" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/bqrxeDu.png",*** NEWZEALAND - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** NEWZEALAND" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/bqrxeDu.png",*** NEWZEALAND
 https://
 #EXTINF:-1 tvg-name="Firstlight" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/2TKL6BX.png",Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
@@ -9,7 +9,7 @@ https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 http://i.mjh.nz/nz/tv.13.m3u8
 #EXTINF:-1 tvg-name="Parliament TV" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://www.parliament.nz/timeline/assets/logo.jpg",Parliament TV
 https://i.mjh.nz/nz/tv.18.m3u8
-#EXTINF:-1 tvg-id="tv.20" tvg-name="Te Reo - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/UermurO.png" group-title="NEWZEALAND",Te Reo - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="tv.20" tvg-name="Te Reo" tvg-logo="https://i.imgur.com/UermurO.png" group-title="NEWZEALAND",Te Reo
 http://i.mjh.nz/nz/tv.20.m3u8
 #EXTINF:-1 tvg-name="TVSN NZ" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/qQALC7M.png",TVSN NZ
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8

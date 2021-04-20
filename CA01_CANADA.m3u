@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** CANADA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="CANADA",*** CANADA - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** CANADA" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="CANADA",*** CANADA
 http://
 #EXTINF:-1 tvg-id="" tvg-name="5AAB TV" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="CANADA",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
@@ -35,7 +35,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/uafvsq.png" group-title="CANADA",CTV Toronto
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deal or no Deal - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/soOgFFc.jpg" group-title="CANADA",Deal or no Deal - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Deal or no Deal" tvg-logo="https://i.imgur.com/soOgFFc.jpg" group-title="CANADA",Deal or no Deal
 https://endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DryBar Comedy" tvg-logo="https://i.imgur.com/a3mGVRE.jpg" group-title="CANADA",DryBar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
@@ -69,7 +69,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GurSikh Sabha TV Scarborough" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="CANADA",GurSikh Sabha TV Scarborough
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HollyWire  - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/BT31YWz.png" group-title="CANADA",HollyWire  - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="HollyWire " tvg-logo="https://i.imgur.com/BT31YWz.png" group-title="CANADA",HollyWire
 https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="ICI Montreal" tvg-id="ICI Montreal" group-title="CANADA" tvg-logo="https://i.imgur.com/yqRhaZ1.png",ICI Montreal
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
@@ -143,7 +143,7 @@ https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele-V" tvg-logo="https://i.imgur.com/ENLiXkJ.png" group-title="CANADA",Tele-V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TMZ  - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/j09QMqL.png" group-title="CANADA",TMZ  - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="TMZ " tvg-logo="https://i.imgur.com/j09QMqL.png" group-title="CANADA",TMZ
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
 #EXTINF:-1 tvg-name="Toronto 360" tvg-id="Toronto 360" group-title="CANADA" tvg-logo="https://i.imgur.com/PkWndsv.png",Toronto 360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8

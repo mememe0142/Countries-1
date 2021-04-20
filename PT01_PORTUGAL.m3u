@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** PORTUGAL - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/qjhJNaZ.png" group-title="PORTUGAL",*** PORTUGAL - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** PORTUGAL" tvg-logo="https://i.imgur.com/qjhJNaZ.png" group-title="PORTUGAL",*** PORTUGAL
 https://
 #EXTINF:-1 tvg-id="" tvg-name="Caca Vision" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="PORTUGAL",Caca Vision
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
@@ -15,7 +15,7 @@ http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="PORTUGAL",Kuriakos TV
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="PORTUGAL",Sobrenatural TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural TV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="PORTUGAL",Sobrenatural TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",Porto Canal
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8

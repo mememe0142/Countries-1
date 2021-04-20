@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** AUSTRALIA - github.com/Free-IPTV" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/lqiMPkK.png",*** AUSTRALIA - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="3AW Melburne (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/Uvie0ws.png" group-title="AUSTRALIA",3AW Melburne (Webradio)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 #EXTINF:-1 tvg-name="ABC Adelaide AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="AUSTRALIA",ABC Adelaide AU
@@ -31,7 +29,7 @@ https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ausbiz TV" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="AUSTRALIA",Ausbiz TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Australia Channel - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="AUSTRALIA",Australia Channel - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Australia Channel" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="AUSTRALIA",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 tvg-name="Australian Sports Channel" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="AUSTRALIA",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -49,7 +47,7 @@ https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Expo Channel" tvg-id="" tvg-logo="https://i.imgur.com/RpCWw2I.png" group-title="AUSTRALIA",Expo Channel
 https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
-#EXTINF:-1 tvg-name="Filmstream - github.com/Free-IPTV" tvg-id="" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="AUSTRALIA",Filmstream - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Filmstream" tvg-id="" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="AUSTRALIA",Filmstream
 https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Fuel TV" tvg-id="" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="AUSTRALIA",Fuel TV
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
@@ -73,7 +71,7 @@ https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Outdoor Channel" tvg-id="" tvg-logo="https://i.imgur.com/mcUDAhZ.png" group-title="AUSTRALIA",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Pulse TV - github.com/Free-IPTV" tvg-id="" tvg-logo="https://i.imgur.com/vQ6cBdd.png" group-title="AUSTRALIA",Pulse TV  - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Pulse TV" tvg-id="" tvg-logo="https://i.imgur.com/vQ6cBdd.png" group-title="AUSTRALIA",Pulse TV
 https://lightning-pulse-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="QUEST TV Classical" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="AUSTRALIA",QUEST TV Classical
 https://qwestclassic-samsungau.amagi.tv/playlist.m3u8
@@ -105,7 +103,7 @@ http://c.mjh.nz/snowy-mountains/
 https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="AUSTRALIA",Travel XP
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="TVSN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="AUSTRALIA",TVSN - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="AUSTRALIA",TVSN
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 #EXTINF:-1 tvg-name="VENN" tvg-logo="https://i.imgur.com/H8ucPJd.jpg" group-title="AUSTRALIA",VENN
 https://venntv-samsungau.amagi.tv/playlist.m3u8

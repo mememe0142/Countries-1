@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** GEM ONLINE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="GEM ONLINE",*** GEM ONLINE - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** GEM ONLINE" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="GEM ONLINE",*** GEM ONLINE
 https://
 #EXTINF:-1 tvg-name="GEM 24B" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
@@ -37,7 +37,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Nature" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Nature
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8
-#EXTINF:-1 tvg-name="GEM Onyx - github.com/Free-IPTV" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Onyx - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="GEM Onyx" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Onyx
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Property" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Property
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist.m3u8

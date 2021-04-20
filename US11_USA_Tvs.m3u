@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA TVS - github.com/Free-IPTV" group-title="USA TVS" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA TVS  - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Bazaar of All Nation
 https://nrpus.bozztv.com/36bay2/gusa-tvsbazaar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Boxing Network
@@ -31,7 +29,7 @@ http://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Inspirational Network
 https://nrpus.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Main Street - github.com/Free-IPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Main Street
 https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Music Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsmusic/tracks-v1a1/index.m3u8
@@ -67,7 +65,7 @@ https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Turbo Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Travel Network - github.com/Free-IPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Travel Network
 https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Television Network
 http://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8

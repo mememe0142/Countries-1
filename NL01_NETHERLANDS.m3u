@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** NETHERLANDS - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/9sNF9uX.png" group-title="NETHERLANDS",*** NETHERLANDS - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" group-title="NETHERLANDS",BNR Nieuwsradio (Webradio)
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3omdaMe.jpg" group-title="NETHERLANDS",Breda Nu
@@ -29,7 +27,7 @@ https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 http://web.omroepgelderland.nl/live/livetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b6eHPxa.jpg" group-title="NETHERLANDS",Omroep Flevoland
 http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1uxxeWX.png" group-title="NETHERLANDS",Omroep P&M - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1uxxeWX.png" group-title="NETHERLANDS",Omroep P&M
 http://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="NETHERLANDS",Omroep Tilburg
 https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist_w1521128841_b1894400_slNLD.m3u8
@@ -65,7 +63,7 @@ https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="NETHERLANDS",RTV Noord (Webradio)
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="NETHERLANDS",RTV Noord Extra - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="NETHERLANDS",RTV Noord Extra
 http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="NETHERLANDS",RTV Noordoost Friesland
 http://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
@@ -95,5 +93,5 @@ https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KrEBHLw.jpg" group-title="NETHERLANDS",ZO!34
 https://streams.uitzending.tv/zo34/zo34/playlist.m3u8
-#EXTINF:-1 tvg-id="Zuid West TV" tvg-name="Zuid West TV" tvg-logo="https://i.imgur.com/ncpOZ4e.png" group-title="NETHERLANDS",Zuid West TV 
+#EXTINF:-1 tvg-id="Zuid West TV" tvg-name="Zuid West TV" tvg-logo="https://i.imgur.com/ncpOZ4e.png" group-title="NETHERLANDS",Zuid West TV
 https://olon.ctl.cdn.ebsd.ericsson.net/L8B/2cc7091a/dc57b750.isml/.m3u8

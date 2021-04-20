@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** CZECH REPUBLIC - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/cRl8w0t.png" group-title="CZECH REPUBLIC",*** CZECH REPUBLIC - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** CZECH REPUBLIC" tvg-logo="https://i.imgur.com/cRl8w0t.png" group-title="CZECH REPUBLIC",*** CZECH REPUBLIC
 http://
 #EXTINF:-1 tvg-id="" tvg-name="CNN Prima NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cnn-prima-news-2020.png" group-title="CZECH REPUBLIC",CNN Prima NEWS
 https://prima-ott-live-sec.ssl.cdn.cra.cz/rjMQ7dF4QovAGLrLKkJ5sg==,1616348080/channels/prima_cnn/playlist/cze/live_hq.m3u8
@@ -33,7 +33,7 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ocko STAR" tvg-logo="https://i.imgur.com/YgqgU3K.png" group-title="CZECH REPUBLIC",Ocko STAR
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Slagr - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/XFSqmYS.png" group-title="CZECH REPUBLIC",Slagr - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Slagr" tvg-logo="https://i.imgur.com/XFSqmYS.png" group-title="CZECH REPUBLIC",Slagr
 https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV NOE" tvg-logo="https://i.imgur.com/Dg9edVr.jpg" group-title="CZECH REPUBLIC",TV NOE
 https://w101.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/Playlist.m3u8?id=mPl75tTRpFzGS2-03

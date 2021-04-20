@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** BRAZIL - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/4IRPTyM.png" group-title="BRAZIL",*** BRAZIL - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DXwyj7S.png" group-title="BRAZIL",98 Live
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="BRAZIL",AgroBrasil TV
@@ -49,7 +47,7 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u
 https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sJoBFNp.png" group-title="BRAZIL",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tYbG4bn.png" group-title="BRAZIL",Paraná Turismo - github.com/Free-IPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tYbG4bn.png" group-title="BRAZIL",Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PafEXRA.png" group-title="BRAZIL",Record News - TV Guará (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
@@ -65,7 +63,7 @@ http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tgov03S.jpg" group-title="BRAZIL",Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vD69bN7.png" group-title="BRAZIL",Rede Super - github.com/Free-IPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vD69bN7.png" group-title="BRAZIL",Rede Super
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ0kO2o.png" group-title="BRAZIL",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
@@ -117,7 +115,7 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnqpHAs.png" group-title="BRAZIL",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j7EJvHr.png" group-title="BRAZIL",TV Mon - github.com/Free-IPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j7EJvHr.png" group-title="BRAZIL",TV Mon
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="BRAZIL",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8

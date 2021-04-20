@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=vg-name="*** IRAN - github.com/Free-IPTV" group-title="IRAN" tvg-logo="https://i.imgur.com/6Fb1ysK.jpg",*** IRAN - github.com/Free-IPTV
+#EXTINF:-1 tvg-name=vg-name="*** IRAN" group-title="IRAN" tvg-logo="https://i.imgur.com/6Fb1ysK.jpg",*** IRAN
 http://
 #EXTINF:-1 tvg-id="" tvg-name="11 TV" tvg-logo="https://i.imgur.com/Uo3iDXN.jpg" group-title="IRAN",11 TV
 http://51.210.199.43/hls/stream.m3u8
@@ -17,7 +17,7 @@ http://51.210.199.5/hls/stream.m3u8
 http://51.210.199.56/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Helal TV" tvg-logo="https://i.imgur.com/mfTccwm.png" group-title="IRAN",Helal TV
 http://51.210.199.54/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hewad TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/RkcUtMK.jpg" group-title="IRAN",Hewad TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Hewad TV" tvg-logo="https://i.imgur.com/RkcUtMK.jpg" group-title="IRAN",Hewad TV
 http://51.210.199.58/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HodHod TV" tvg-logo="https://i.imgur.com/TMxCgX1.jpg" group-title="IRAN",HodHod TV
 http://51.210.199.12/hls/stream.m3u8
@@ -55,7 +55,7 @@ http://51.210.199.19/hls/stream.m3u8
 http://51.210.199.13/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PERSIANA GAME & TECH" tvg-logo="https://i.imgur.com/0y1p9G5.png" group-title="IRAN",PERSIANA GAME & TECH
 http://51.210.199.25/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA IRANIAN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/gIihZfT.png" group-title="IRAN",PERSIANA IRANIAN - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA IRANIAN" tvg-logo="https://i.imgur.com/gIihZfT.png" group-title="IRAN",PERSIANA IRANIAN
 http://51.210.199.22/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PERSIANA JUNIOR" tvg-logo="https://i.imgur.com/LmbNidk.png" group-title="IRAN",PERSIANA JUNIOR
 http://51.210.199.18/hls/stream.m3u8
@@ -73,7 +73,7 @@ http://51.210.199.6/hls/stream.m3u8
 http://51.210.199.50/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL 1" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="IRAN",SL 1
 http://51.210.199.3/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SL 2 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="IRAN",SL 2 - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="SL 2" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="IRAN",SL 2
 http://51.210.199.2/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Solh TV" tvg-logo="https://i.imgur.com/bAbNyIt.jpg" group-title="IRAN",Solh TV
 http://51.210.199.42/hls/stream.m3u8

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** SLOVAKIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/ajHUvqV.png" group-title="SLOVAKIA",*** SLOVAKIA - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://i.imgur.com/hgdR9cp.png" group-title="SLOVAKIA",BTV
 rtmp://s1.media-planet.sk:80/live/bardejov1
 #EXTINF:-1 tvg-id="" tvg-name="FashionTV Slovak&Czech" tvg-logo="https://i.imgur.com/hrhfs9p.png" group-title="SLOVAKIA",FashionTV Slovak&Czech
@@ -17,7 +15,7 @@ http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Raj TV" tvg-logo="https://i.imgur.com/GKBwOFF.jpg" group-title="SLOVAKIA",Raj TV
 https://ottst05.flexitv.sk/2827-tv-pc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Senzi TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/3w4SA3V.jpg" group-title="SLOVAKIA",Senzi TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Senzi TV" tvg-logo="https://i.imgur.com/3w4SA3V.jpg" group-title="SLOVAKIA",Senzi TV
 http://109.74.144.130/live/senzitest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Severka TV" tvg-logo="https://i.imgur.com/vtI89AA.png" group-title="SLOVAKIA",Severka TV
 http://88.212.7.11/live/test_severka_web_player/playlist.m3u8

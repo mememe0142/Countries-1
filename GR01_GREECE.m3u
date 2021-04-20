@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** GREECE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bn9XpG5.png" group-title="GREECE",*** GREECE - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="4E" tvg-logo="https://i.imgur.com/k2LBY9f.png" group-title="GREECE",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Alert" tvg-name="Alert" tvg-logo="https://i.imgur.com/plW8kkT.png" group-title="GREECE",Alert
@@ -45,7 +43,7 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
 #EXTINF:-1 tvg-name="EPT Sports 3" tvg-logo="https://i.imgur.com/GhOOWAC.png" group-title="GREECE",EPT Sports 3
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ERT World - github.com/Free-IPTV" tvg-logo="http://i.imgur.com/uet8P2n.jpg" group-title="GREECE",ERT World - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="ERT World" tvg-logo="http://i.imgur.com/uet8P2n.jpg" group-title="GREECE",ERT World
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Extra" tvg-logo="https://i.imgur.com/oL9wDvk.png" group-title="GREECE",Extra
 https://extratv.streamings.gr/live/tv/index.m3u8
@@ -103,7 +101,7 @@ https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pik Sat (Cyprus)" tvg-logo="https://i.imgur.com/gHwbGLR.png" group-title="GREECE",Pik Sat (Cyprus)
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLP - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/qa3Lurc.png" group-title="GREECE",PLP - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="PLP" tvg-logo="https://i.imgur.com/qa3Lurc.png" group-title="GREECE",PLP
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reload Play" tvg-logo="https://i.imgur.com/KYNqguL.jpg" group-title="GREECE",Reload Play
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8

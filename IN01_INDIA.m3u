@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** INDIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bopCE0h.png" group-title="INDIA",*** INDIA - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="5aab TV" tvg-logo="https://i.imgur.com/rh8znmF.jpg" group-title="INDIA",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="7S Music" tvg-logo="https://i.imgur.com/jK3JXUb.jpg" group-title="INDIA",7S Music
@@ -37,7 +35,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 plugin://plugin.video.youtube/play/?video_id=Xeg0Q6SZRBA
 #EXTINF:-1 tvg-id="" tvg-name="Boogle Bollywood" tvg-logo="https://i.imgur.com/lB46QNi.jpg" group-title="INDIA",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel-S Live TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/iaFtriZ.jpg" group-title="INDIA",Channel-S Live TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Channel-S Live TV" tvg-logo="https://i.imgur.com/iaFtriZ.jpg" group-title="INDIA",Channel-S Live TV
 https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/yBPXDc7.jpg" group-title="INDIA",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -79,7 +77,7 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="FastWay" tvg-logo="https://i.imgur.com/aD6pGK8.jpg" group-title="INDIA",FastWay
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="Flowers TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/dA5Qo7H.jpg" group-title="INDIA",Flowers TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Flowers TV" tvg-logo="https://i.imgur.com/dA5Qo7H.jpg" group-title="INDIA",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gabruu TV" tvg-logo="https://i.imgur.com/quOQpIn.png" group-title="INDIA",Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
@@ -137,7 +135,7 @@ http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="Lok Sabha TV" tvg-logo="https://i.imgur.com/eoAeDrU.jpg" group-title="INDIA",Lok Sabha TV
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="Mangalam TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/3anF6V3.png" group-title="INDIA",Mangalam TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Mangalam TV" tvg-logo="https://i.imgur.com/3anF6V3.png" group-title="INDIA",Mangalam TV
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Manorama News" tvg-logo="https://i.imgur.com/0sQenkw.jpg" group-title="INDIA",Manorama News
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8

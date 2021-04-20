@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml" url-tvg="https://www.tdtchannels.com/epg/TV.xml" refresh="3600"
-#EXTINF:-1 tvg-name="*** SPAIN YOWI TV - github.com/Free-IPTV" group-title="SPAIN YOWI" tvg-logo="https://i.imgur.com/acuIUpD.png",*** SPAIN YOWI TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** SPAIN YOWI TV" group-title="SPAIN YOWI" tvg-logo="https://i.imgur.com/acuIUpD.png",*** SPAIN YOWI TV
 https://
 #EXTINF:-1 tvg-id="" tvg-name="3/24" tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="SPAIN YOWI",3/24
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
@@ -25,7 +25,7 @@ https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 https://cdn01.yowi.tv/I7V5TFE97R/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lleida Televisio" tvg-logo="https://i.imgur.com/6qZNM6E.png" group-title="SPAIN YOWI",Lleida Televisio
 https://cdn01.yowi.tv/lleida/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEF - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/O5jr7kd.jpg" group-title="SPAIN YOWI",TEF - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="TEF" tvg-logo="https://i.imgur.com/O5jr7kd.jpg" group-title="SPAIN YOWI",TEF
 https://cdn01.yowi.tv/36MLCJRAR2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Aranda" tvg-logo="https://i.imgur.com/8WvYGhr.jpg" group-title="SPAIN YOWI",Tele Arande
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8

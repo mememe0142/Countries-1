@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA STIRR - github.com/Free-IPTV" group-title="USA STIRR" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA  STIRR - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="2020 Live" tvg-name="2020 Live" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/e155b2ff-61dc-44c2-9d2a-26b0f69ebc5b-small3x1_stirr_0120_epg_2020LIVE_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",2020 Live
 https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
 #EXTINF:-1 tvg-id="21 Jump Street" tvg-name="21 Jump Street" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/fff115ea-8e29-48e9-b8bc-42c97e53a29f-small3x1_stirr_1219_epg_21jumpstreet_1920x1080_v2.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",21 Jump Street
@@ -15,15 +13,15 @@ https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
 https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
 #EXTINF:-1 tvg-id="Beverly Hillbillies" tvg-name="Beverly Hillbillies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2855ccff-6344-45e2-a8d0-54982f399f5c-small3x1_stirr_0120_epg_TheBeverlyHillbillies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",Beverly Hillbillies
 https://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
-#EXTINF:-1 tvg-id="Big Life " tvg-name="Big Life " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d461a675-af3d-41c9-8c78-aecec5fe80ab-small3x1_stirr_1219_epg_biglifetv_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",Big Life 
+#EXTINF:-1 tvg-id="Big Life " tvg-name="Big Life " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d461a675-af3d-41c9-8c78-aecec5fe80ab-small3x1_stirr_1219_epg_biglifetv_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",Big Life
 https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Bonanza" tvg-name="Bonanza" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3385dd03-f70f-42e3-b1e6-98b8b5078a8c-small3x1_stirr_0120_epg_Bonanza_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",Bonanza
 https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
-#EXTINF:-1 tvg-id="BritCom" tvg-name="BritCom - github.com/Free-IPTV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3b1f2833-2065-4bf9-a92b-88238158330e-small3x1_STIRR_Logo_0320_Britcom_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",BritCom - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="BritCom" tvg-name="BritCom" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3b1f2833-2065-4bf9-a92b-88238158330e-small3x1_STIRR_Logo_0320_Britcom_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 #EXTINF:-1 tvg-id="Buzzr" tvg-name="Buzzr" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/21acd9d6-373a-4695-9ac0-99a35ea0fc40-small3x1_STIRR_Logo_0320_BUZZR_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
-#EXTINF:-1 tvg-id="CHARGE " tvg-name="CHARGE " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/8aa83636-ea2b-4bc0-946a-cb0942548724-small3x1_STIRR_Logo_0320_Charge_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",CHARGE 
+#EXTINF:-1 tvg-id="CHARGE " tvg-name="CHARGE " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/8aa83636-ea2b-4bc0-946a-cb0942548724-small3x1_STIRR_Logo_0320_Charge_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",CHARGE
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 tvg-id="Cheddar" tvg-name="Cheddar" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/af608fc2-6c7a-43b8-8578-e961fe9c8554-small3x1_STIRR_Logo_0520_Cheddar_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",Cheddar
 https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
@@ -49,7 +47,7 @@ https://dai.google.com/linear/hls/event/HgozmUlQQviIXFUF23mloA/master.m3u8
 https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
 #EXTINF:-1 tvg-id="Docurama" tvg-name="Docurama" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/64e1e4f2-5aa5-49d8-bd74-a692313d0473-small3x1_stirr_0120_epg_Docurama_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",Docurama
 https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
-#EXTINF:-1 tvg-id="Dove " tvg-name="Dove " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/f8e63530-6d3b-478b-b935-d4a834db5a7f-small3x1_stirr_1219_epg_dovechannel_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",Dove 
+#EXTINF:-1 tvg-id="Dove " tvg-name="Dove " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/f8e63530-6d3b-478b-b935-d4a834db5a7f-small3x1_stirr_1219_epg_dovechannel_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",Dove
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 tvg-id="DUST" tvg-name="DUST" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/fc4a690f-2c95-4600-974c-10fa3b390b07-small3x1_stirr_1219_epg_dust_1920x10802.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",DUST
 http://dust.sinclair.wurl.com/manifest/playlist.m3u8
@@ -99,7 +97,7 @@ https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 #EXTINF:-1 tvg-id="Kitchen Nightmares" tvg-name="Kitchen Nightmares" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d3fa0a6c-3f76-46e0-b4d6-5039ee16f5a3-small3x1_stirr_1219_epg_kitchennightmares_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",Kitchen Nightmares
 https://dai.google.com/linear/hls/event/23QIslh0TOqygKz-M9W29Q/master.m3u8
-#EXTINF:-1 tvg-id="Law - Crime " tvg-name="Law - Crime - github.com/Free-IPTV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/51c6158b-80d1-4dde-883d-02bbb9a92f65-small3x1_stirr_1219_epg_lawandcrime_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",Law & Crime - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="Law - Crime " tvg-name="Law - Crime" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/51c6158b-80d1-4dde-883d-02bbb9a92f65-small3x1_stirr_1219_epg_lawandcrime_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",Law & Crime
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 #EXTINF:-1 tvg-id="LiveXLive" tvg-name="LiveXLive" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/545cc045-69ad-4c2f-979a-3be0280c5e1c-small3x1_STIRR_Logo_0320_LiveXLive_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",LiveXLive
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
@@ -153,7 +151,7 @@ https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 #EXTINF:-1 tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b4765251-26e4-48e8-a5ad-f96d8a1eec77-small3x1_STIRR_Logo_0320_SportsGrid_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",SportsGrid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 tvg-id="Stadium " tvg-name="Stadium " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b4e26296-be68-4e3d-beda-04e81f4d34ee-small3x1_stirr_1219_epg_stadium_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",Stadium 
+#EXTINF:-1 tvg-id="Stadium " tvg-name="Stadium " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b4e26296-be68-4e3d-beda-04e81f4d34ee-small3x1_stirr_1219_epg_stadium_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",Stadium
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
 #EXTINF:-1 tvg-id="Stingray Classic Rock" tvg-name="Stingray Classic Rock" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/dcf6dea4-94f1-49c2-8387-82569dde9f45-small3x1_stirr_1219_epg_singrayclassicrock_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",Stingray Classic Rock
 https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
@@ -173,7 +171,7 @@ https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 #EXTINF:-1 tvg-id="Stingray Today's Latin Pop" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b1d83dd9-b335-4871-89a1-b92cf2651b65-small3x1_STIRR_Logo_0720_StingrayLatinPop_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
-#EXTINF:-1 tvg-id="Stingray Urban Beats - github.com/Free-IPTV" tvg-name="Stingray Urban Beats" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2056e60-df7d-4fac-8533-19503d5af78e-small3x1_STIRR_Logo_0720_HipHopRB_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",Stingray Urban Beats - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="Stingray Urban Beats" tvg-name="Stingray Urban Beats" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2056e60-df7d-4fac-8533-19503d5af78e-small3x1_STIRR_Logo_0720_HipHopRB_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:-1 tvg-id="STIRR Black Cinema" tvg-name="STIRR Black Cinema" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9625f6a4-43d3-46c2-a87a-8592261c0996-small3x1_stirr_1219_epg_stirrblackcinema_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",STIRR Black Cinema
 https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
@@ -181,7 +179,7 @@ https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
 https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
 #EXTINF:-1 tvg-id="Stirr City" tvg-name="Stirr City" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/44e3adac-d9ed-4f62-b8e7-3bc5d09d94cc-small3x1_STIRR_LOGO_0220_STIRRCity_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",Stirr City
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 tvg-id="STIRR Comedy " tvg-name="STIRR Comedy " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/990dca91-04c1-4795-b958-75339be1d01e-small3x1_stirr_1219_epg_stirrcomedy_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",STIRR Comedy 
+#EXTINF:-1 tvg-id="STIRR Comedy " tvg-name="STIRR Comedy " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/990dca91-04c1-4795-b958-75339be1d01e-small3x1_stirr_1219_epg_stirrcomedy_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",STIRR Comedy
 https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
 #EXTINF:-1 tvg-id="STIRR Cooks" tvg-name="STIRR Cooks" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2379062-d570-4ce6-ad7d-a31417eb5b27-small3x1_STIRR_Logo_0320_STIRRCooks_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",STIRR Cooks
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
@@ -201,7 +199,7 @@ https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
 https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
 #EXTINF:-1 tvg-id="STIRR Westerns" tvg-name="STIRR Westerns" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/51ae9480-f6ae-4c26-9518-b32bd8aa99e5-small3x1_stirr_1219_epg_stirrwesterns_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",STIRR Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
-#EXTINF:-1 tvg-id="TBD - do not use " tvg-name="TBD - do not use " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/00042dc2-f462-42bc-8aaa-cf73828eb0e6-small3x1_stirr_1219_epg_tbd_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",TBD - do not use 
+#EXTINF:-1 tvg-id="TBD - do not use " tvg-name="TBD - do not use " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/00042dc2-f462-42bc-8aaa-cf73828eb0e6-small3x1_stirr_1219_epg_tbd_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",TBD - do not use
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 #EXTINF:-1 tvg-id="The Adventures of Sherlock Holmes" tvg-name="The Adventures of Sherlock Holmes" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/8f0ba0f2-e3aa-45ca-bc7c-26d2e4cc79d9-small3x1_stirr_0120_epg_Sherlock_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",The Adventures of Sherlock Holmes
 https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
@@ -211,7 +209,7 @@ https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 https://dai.google.com/linear/hls/event/zfyiHhG0TeuoNist_WUwjg/master.m3u8
 #EXTINF:-1 tvg-id="The Bob Ross Channel" tvg-name="The Bob Ross Channel" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/89b69784-d184-4cb4-84b8-4b6a059bb1d7-small3x1_STIRR_Logo_0320_BobRoss_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-#EXTINF:-1 tvg-id="The First" tvg-name="The First - github.com/Free-IPTV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/5cc1a83b-0a37-452a-9fb2-3708d4579a58-small3x1_STIRR_Logo_0520_TheFirst_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",The First - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="The First" tvg-name="The First" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/5cc1a83b-0a37-452a-9fb2-3708d4579a58-small3x1_STIRR_Logo_0520_TheFirst_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",The First
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 #EXTINF:-1 tvg-id="The Lone Ranger" tvg-name="The Lone Ranger" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/37204910-429a-4e1a-8c8d-eeb697ae5c62-small3x1_stirr_0120_epg_TheLoneRanger_1920x1080_v3.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA STIRR",The Lone Ranger
 https://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8

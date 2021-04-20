@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** ALBANIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="ALBANIA",*** ALBANIA - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://i.imgur.com/XfBb8Pj.png" group-title="ALBANIA",ABC News
 http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALB MUSIC" tvg-logo="https://i.imgur.com/7TWTJfG.png" group-title="ALBANIA",ALB MUSIC

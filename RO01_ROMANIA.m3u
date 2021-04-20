@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** ROMANIA - github.com/Free-IPTV" group-title="ROMANIA" tvg-logo="https://i.imgur.com/ufOC17d.png",*** ROMANIA - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** ROMANIA" group-title="ROMANIA" tvg-logo="https://i.imgur.com/ufOC17d.png",*** ROMANIA
 https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z10bwPn.jpg" group-title="ROMANIA",7TV
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
@@ -21,7 +21,7 @@ https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/chunklist_w145659
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cornea TV" tvg-logo="https://i.imgur.com/cn89fLa.jpg" group-title="ROMANIA",Cornea TV
 http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cromtel TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/kNNRmS1.png" group-title="ROMANIA",Cromtel TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Cromtel TV" tvg-logo="https://i.imgur.com/kNNRmS1.png" group-title="ROMANIA",Cromtel TV
 http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
 #EXTINF:-1 tvg-id="" tvg-name="Dibi TV" tvg-logo="https://i.imgur.com/gnu7LIn.png" group-title="ROMANIA",Dibi TV
 http://82.76.210.127:1935/dibitv/live/playlist.m3u8
@@ -78,7 +78,7 @@ http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="ROMANIA",Stars
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="ROMANIA",Stars Direct
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8 
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TravelMix" tvg-logo="https://i.imgur.com/MHTJwMo.jpg" group-title="ROMANIA",TravelMix
 http://89.38.8.131:39520
 #EXTINF:-1 tvg-id="" tvg-name="TV SE" tvg-logo="https://i.imgur.com/BoMnP5g.png" group-title="ROMANIA",TV SE

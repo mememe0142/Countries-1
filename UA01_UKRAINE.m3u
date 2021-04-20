@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="***UKRAINE  - github.com/Free-IPTV" group-title="UKRAINE" tvg-logo="https://i.imgur.com/kP0PTbp.png",*** UKRAINE  - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="***UKRAINE " group-title="UKRAINE" tvg-logo="https://i.imgur.com/kP0PTbp.png",*** UKRAINE
 http://
 #EXTINF:-1 tvg-id="pervy-gorodskoy-kryvrig" tvg-name="1 Krivoy Rog" tvg-logo="https://i.imgur.com/Mzh7Xz5.jpg" group-title="UKRAINE",1 Krivoy Rog
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
@@ -19,7 +19,7 @@ http://stream.atr.ua/atr/live/index.m3u8
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Ukraine" tvg-logo="https://i.imgur.com/FLGj5J9.png" group-title="UKRAINE",BBC Ukraine
 plugin://plugin.video.youtube/play/?video_id=e6x1Zokwmyo
-#EXTINF:-1 tvg-id="" tvg-name="BTB - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/JG493Vn.png" group-title="UKRAINE",BTB - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="BTB" tvg-logo="https://i.imgur.com/JG493Vn.png" group-title="UKRAINE",BTB
 http://video.vtvplus.com.ua:81/hls/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Centralnyi" tvg-logo="https://i.imgur.com/vqy0YYv.png" group-title="UKRAINE",Centralnyi
 http://159.224.182.177:8080/Live_wildcard/stream/playlist.m3u8
@@ -59,7 +59,7 @@ http://109.68.40.67/life/k1_3/index.m3u8
 https://cdn10.live-tv.od.ua:8083/kratu/kratu-abr-lq/kratu/kratu-sub/chunks.m3u8
 #EXTINF:-1 tvg-id="krym24" tvg-name="Krim 24" tvg-logo="https://i.imgur.com/s6YES8x.jpg" group-title="UKRAINE",Krim 24
 http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-1 tvg-id="lale" tvg-name="Lale - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/Nv6P5Ds.png" group-title="UKRAINE",Lale - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="lale" tvg-name="Lale" tvg-logo="https://i.imgur.com/Nv6P5Ds.png" group-title="UKRAINE",Lale
 http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:-1 tvg-id="m2-ua" tvg-name="M2" tvg-logo="https://i.imgur.com/IwUc4pC.png" group-title="UKRAINE",M2
 http://live.m2.tv/hls3/stream.m3u8
@@ -97,7 +97,7 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
 https://live.rudana.com.ua/hls/stream_FHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Simon" tvg-logo="https://i.imgur.com/RaVchcn.jpg" group-title="UKRAINE",Simon
 http://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SK 1 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/wr0CN1l.png" group-title="UKRAINE",SK 1 - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="SK 1" tvg-logo="https://i.imgur.com/wr0CN1l.png" group-title="UKRAINE",SK 1
 https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Svarogichi" tvg-logo="https://i.imgur.com/80bSn6j.png" group-title="UKRAINE",Svarogichi
 http://tv.tv-project.com:1935/live/live1/playlist.m3u8
