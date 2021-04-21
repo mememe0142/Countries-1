@@ -4,7 +4,7 @@ A fork of [FreeIPTV](https://github.com/Free-IPTV) / [Countries](https://github.
 
 ## Usage
 
-Simply open https://thelastzombie.github.io/Countries/ZZ_PLAYLIST_ALL_TV.m3u with your preferred media player and you're good to go.
+Simply open [https://thelastzombie.github.io/Countries/ZZ_PLAYLIST_ALL_TV.m3u](https://thelastzombie.github.io/Countries/ZZ_PLAYLIST_ALL_TV.m3u) with your preferred media player and you're good to go.
 
 For specific countries or radio stations, replace `ZZ_PLAYLIST_ALL_TV.m3u` with the file name of one of the other M3U playlists listed in [TheLastZombie](https://github.com/TheLastZombie) / [Countries](https://github.com/TheLastZombie/Countries).
 
