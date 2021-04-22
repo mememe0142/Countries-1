@@ -11,6 +11,8 @@ https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JBS" tvg-logo="https://i.imgur.com/Ol5M9ot.png" group-title="ISRAEL",JBS
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jesus Shelanu" tvg-logo="https://www.god.tv/wp-content/uploads/2019/12/eMailer-JAN20-Shelanu.png" group-title="ISRAEL",Jesus Shelanu
+https://1247634592.rsc.cdn77.org/1247634592/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kabbalah TV Hebrew" tvg-logo="https://i.imgur.com/JtJ4U6o.png" group-title="ISRAEL",Kabbalah TV Hebrew
 http://edge2.uk.kab.tv/live/tv66-heb-medium/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KAN 11 Israel" tvg-logo="https://i.imgur.com/SBeqbv0.png" group-title="ISRAEL",KAN 11 Israel
